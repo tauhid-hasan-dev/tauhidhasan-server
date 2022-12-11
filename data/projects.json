@@ -20,6 +20,7 @@
         "live": "https://used-book-store-90b6b.web.app/",
         "client": "https://github.com/tauhid-hasan-dev/used-books-client",
         "server": "https://github.com/tauhid-hasan-dev/used-books-server",
+        "details":"This is an old and rare books store. A user can buy and sell his/her old books. Dashboard implemented. Users can sign up as a buyer or seller. Admin is set manually. Admin email and password are mentioned above.Admin can see all sellers, all buyers, and reported item routes. A buyer can see my product route and a seller can see my products and add product routes. Admin can verify a seller and after verification a blue will be visible. Admin can delete any user or any books which are reported. A seller can add a book, advertise and delete books he/she wanted. A buyer can see the booked product and he/she can report to the admin if he/she thinks the seller is a scam, etc. User authentication is implemented for both email and google users, with firebase authentication. User authorization is implemented for every role with JWT(JSON web token). Payment gateway implemented with stripe. After payment is successful, the seller will see the product status is 'SOLD' instead of Available. Book will be deleted from both the advertised section and the category section after the payment is successful. 404 routers added normal routes and for dynamic routes, 404 pages were added as well as an error element. Private routing, Dynamic routing, admin route, seller route, and buyer route applied. Custom hook created and used for JWT verification.",
         "technology": [
             "ReactJs",
             "Tailwind CSS",
@@ -51,6 +52,7 @@
         "live": "https://architect-tauhid-hasan.web.app/",
         "client": "https://github.com/tauhid-hasan-dev/architect-zaha-hadid-client",
         "server": "https://github.com/tauhid-hasan-dev/architect-zaha-hadid-server",
+        "details": "This is a service based website for an architect , a single page application and created with Create react app. A full stack website. React js used for frontend and for the backend, express js used for creating api and connect with mongodb. With mongo CRUD operation, a user can comment, delete and edit their comment. Firebase authentication used for the User Authentication. 404 router added normal routes and for dynamic routes 404 page added as well as an error element. Custom API used in this project.(Dynamic API used as well). React router used for routing and dynamic routing applied. Private routing applied for the add service page and add my review page when the user is not logged in. Tailwind css and Daisy Ui used for styling and the web app is fully responsive. React Icon package used for icons. Hot toaster used for the notification.",
         "technology": [
             "ReactJs",
             "Tailwind CSS",
@@ -81,6 +83,7 @@
         "live": "https://learning-platform-client-d552c.web.app/",
         "client": "https://github.com/tauhid-hasan-dev/edu-cate-ed-tech-client",
         "server": "https://github.com/tauhid-hasan-dev/edu-cate-ed-tech-server",
+        "details": "This is an ed-tech website, a single page application and created with Create react app. Firebase authentication used for the User Authentication. Custom API used in this project.(Dynamic API used as well). React router used for routing and dynamic routing applied. Private routing applied for the checkout page when the user is not logged in. Tailwind css and Daisy Ui used for styling and the web app is fully responsive.React Icon package used for icons.",
         "technology": [
             "ReactJs",
             "Tailwind CSS",
